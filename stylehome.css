@@ -20,7 +20,7 @@ body, html{
 }
 .warning_alert{
     width: 100%;
-    height: 100px;
+    height: 60px;
     background-color: gold;
 }
 .hero-btn {
