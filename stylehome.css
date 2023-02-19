@@ -18,7 +18,11 @@ body, html{
     background-size: cover;
     position: relative;
 }
-
+.warning_alert{
+    width: 100%;
+    height: 100px;
+    background-color: gold;
+}
 .hero-btn {
     color: gray;
     position: center;
